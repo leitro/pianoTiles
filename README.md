@@ -1,4 +1,4 @@
-# digitsOCR
+# Piano Tiles
 A bot that play the game "Don't Tap The White Tile", made in Python3，based on OpenCV3.
 
 ###Requirements:
